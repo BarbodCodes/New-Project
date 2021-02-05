@@ -1,2 +1,2 @@
 # New-Project
-Building Ai Course Project
+Building AI Course Project
